@@ -89,7 +89,7 @@ export default function SectionTypography() {
             <div className={classes.note}>Jean says</div>
             <Quote
               text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
-              author=" Engineer, Ford"
+              author=" Engineer, Flex"
             />
           </div>
           <div className={classes.typo}>
