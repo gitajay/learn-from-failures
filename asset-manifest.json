@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learn-from-failures/static/css/main.126c14d6.chunk.css",
-    "main.js": "/learn-from-failures/static/js/main.28347bfd.chunk.js",
-    "main.js.map": "/learn-from-failures/static/js/main.28347bfd.chunk.js.map",
+    "main.js": "/learn-from-failures/static/js/main.4140f276.chunk.js",
+    "main.js.map": "/learn-from-failures/static/js/main.4140f276.chunk.js.map",
     "runtime-main.js": "/learn-from-failures/static/js/runtime-main.81018768.js",
     "runtime-main.js.map": "/learn-from-failures/static/js/runtime-main.81018768.js.map",
     "static/js/2.b16d5969.chunk.js": "/learn-from-failures/static/js/2.b16d5969.chunk.js",
     "static/js/2.b16d5969.chunk.js.map": "/learn-from-failures/static/js/2.b16d5969.chunk.js.map",
     "index.html": "/learn-from-failures/index.html",
-    "precache-manifest.a83b8e9c9081b33b61b5a99ef6647a2f.js": "/learn-from-failures/precache-manifest.a83b8e9c9081b33b61b5a99ef6647a2f.js",
+    "precache-manifest.500985e39e4d6da02cf6d677736fc3b9.js": "/learn-from-failures/precache-manifest.500985e39e4d6da02cf6d677736fc3b9.js",
     "service-worker.js": "/learn-from-failures/service-worker.js",
     "static/css/main.126c14d6.chunk.css.map": "/learn-from-failures/static/css/main.126c14d6.chunk.css.map",
     "static/js/2.b16d5969.chunk.js.LICENSE.txt": "/learn-from-failures/static/js/2.b16d5969.chunk.js.LICENSE.txt",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.81018768.js",
     "static/js/2.b16d5969.chunk.js",
     "static/css/main.126c14d6.chunk.css",
-    "static/js/main.28347bfd.chunk.js"
+    "static/js/main.4140f276.chunk.js"
   ]
 }
