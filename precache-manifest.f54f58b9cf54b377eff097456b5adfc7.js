@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ce41286e2790b0668e6fa095d65648e",
+    "revision": "e863a2147d56b4c639b16a4317eb0393",
     "url": "/learn-from-failures/index.html"
   },
   {
-    "revision": "ba3182120d75d29cb443",
+    "revision": "7cf86ff70550f60a2de4",
     "url": "/learn-from-failures/static/css/main.126c14d6.chunk.css"
   },
   {
-    "revision": "0f2391ac8c0d9a2180be",
-    "url": "/learn-from-failures/static/js/2.b16d5969.chunk.js"
+    "revision": "149c6b18194816b216b6",
+    "url": "/learn-from-failures/static/js/2.9d68ca40.chunk.js"
   },
   {
     "revision": "d09ac505fec0e9130a1d5b85fb3fa6dc",
-    "url": "/learn-from-failures/static/js/2.b16d5969.chunk.js.LICENSE.txt"
+    "url": "/learn-from-failures/static/js/2.9d68ca40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba3182120d75d29cb443",
-    "url": "/learn-from-failures/static/js/main.4140f276.chunk.js"
+    "revision": "7cf86ff70550f60a2de4",
+    "url": "/learn-from-failures/static/js/main.0a378943.chunk.js"
   },
   {
     "revision": "dae0609dc7c626d9e653",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "383c180bf6c4eac0e193010487babad9",
     "url": "/learn-from-failures/static/media/geo_profile.383c180b.jpg"
+  },
+  {
+    "revision": "d5f6e4a75ca4e6efee17827db14ef690",
+    "url": "/learn-from-failures/static/media/gerwin_profile.d5f6e4a7.jpg"
   },
   {
     "revision": "b30c20d724a1d0e7ebeeed777655ed58",
