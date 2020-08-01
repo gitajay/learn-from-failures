@@ -9,6 +9,7 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Quote from "components/Typography/Quote.js";
 
+import gerwin_profile from "assets/img/faces/gerwin_profile.jpg";
 import aj_profile from "assets/img/faces/aj_profile.jpg";
 import jean_profile from "assets/img/faces/jean_profile.jpg";
 import geo_profile from "assets/img/faces/geo_profile.jpg";
@@ -29,6 +30,31 @@ export default function SectionTypography() {
               <h1>Like minded peoples</h1>
             </div>
           </GridContainer>
+        </div>
+        <div className={classes.space50} />
+        <div id="images">
+          <div className={classes.title}>
+            <h2>Trustee</h2>
+          </div>
+          <br />
+          <GridContainer>
+            <GridItem xs={12} sm={2}>
+              <h4>Gerwin</h4>
+              <img
+                src={gerwin_profile}
+                alt="..."
+                className={classes.imgRounded + " " + classes.imgFluid}
+              />
+            </GridItem>
+          </GridContainer>
+          <GridContainer />
+          <div className={classes.typo}>
+            <div className={classes.note}>Says</div>
+            <Quote
+              text="The one who falls and gets up is stronger than the one who never tried. Do not fear failure but rather fear not trying."
+              author=" Director, Arama management service Pvt Ltd"
+            />
+          </div>
         </div>
         <div className={classes.space50} />
         <div id="images">
@@ -72,35 +98,34 @@ export default function SectionTypography() {
           </GridContainer>
           <GridContainer />
           <div className={classes.typo}>
-            <div className={classes.note}>Shebin says</div>
+            <div className={classes.note}>Says</div>
             <Quote
-              text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
+              text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help them. They will bring powers to them and their surroundings."
               author=" Owner, SP designs"
             />
           </div>
           <div className={classes.typo}>
-            <div className={classes.note}>AJ says</div>
+            <div className={classes.note}>Says</div>
             <Quote
-              text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
-              author=" Owner, Learn from failures"
+              text="People with failures are the experienced. Experienced are the one most hunted people from Human resources. Lets give them an oppertunity no matter of any security but in humanity."
+              author=" Director, Learn from failures"
             />
           </div>
           <div className={classes.typo}>
-            <div className={classes.note}>Jean says</div>
+            <div className={classes.note}>Says</div>
             <Quote
               text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
               author=" Engineer, Flex"
             />
           </div>
           <div className={classes.typo}>
-            <div className={classes.note}>Geo says</div>
+            <div className={classes.note}>Says</div>
             <Quote
               text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
               author=" Accountant, Ford"
             />
           </div>
         </div>
-        <div className={classes.space50} />
       </div>
     </div>
   );
