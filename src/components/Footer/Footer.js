@@ -61,7 +61,7 @@ export default function Footer(props) {
           &copy; {1900 + new Date().getYear()} , made with{" "}
           <Favorite className={classes.icon} /> by{" "}
           <a
-            href="https://www.linkedin.com/in/ajaydev/"
+            href="https://ajaydev.netlify.app/"
             className={aClasses}
             target="_blank"
           >
