@@ -11,8 +11,8 @@ import Quote from "components/Typography/Quote.js";
 
 import gerwin_profile from "assets/img/faces/gerwin_profile.jpg";
 import aj_profile from "assets/img/faces/aj_profile.jpg";
-import jean_profile from "assets/img/faces/jean_profile.jpg";
-import geo_profile from "assets/img/faces/geo_profile.jpg";
+import ameer_profile from "assets/img/faces/ameer_profile.jpg";
+import jenil_profile from "assets/img/faces/jenil_profile.jpg";
 import shebin_profile from "assets/img/faces/shebin_profile.jpg";
 
 import styles from "assets/jss/material-kit-react/views/componentsSections/typographyStyle.js";
@@ -64,9 +64,9 @@ export default function SectionTypography() {
           <br />
           <GridContainer>
             <GridItem xs={12} sm={2}>
-              <h4>Jean</h4>
+              <h4>Ameer</h4>
               <img
-                src={jean_profile}
+                src={ameer_profile}
                 alt="..."
                 className={classes.imgRounded + " " + classes.imgFluid}
               />
@@ -80,9 +80,9 @@ export default function SectionTypography() {
               />
             </GridItem>
             <GridItem xs={12} sm={2} className={classes.marginLeft}>
-              <h4>Geo</h4>
+              <h4>Jenil</h4>
               <img
-                src={geo_profile}
+                src={jenil_profile}
                 alt="..."
                 className={classes.imgRounded + " " + classes.imgFluid}
               />
@@ -115,14 +115,14 @@ export default function SectionTypography() {
             <div className={classes.note}>Says</div>
             <Quote
               text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
-              author=" Engineer, Flex"
+              author=" Engineer, SP Designs"
             />
           </div>
           <div className={classes.typo}>
             <div className={classes.note}>Says</div>
             <Quote
               text="Helping the people who tried before will never fail. Here we aggressive in fund raising to help to them. They will bring powers to them and their surroundings."
-              author=" Accountant, Ford"
+              author=" Engineer, Dubai"
             />
           </div>
         </div>
